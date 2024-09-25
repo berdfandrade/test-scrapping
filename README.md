@@ -1,6 +1,6 @@
 # Teste Webscrapping 
 
-candidato : Bernardo Andrade
+candidato : *Bernardo Andrade*
 
 ### O desafio é:
 
