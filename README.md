@@ -1,0 +1,16 @@
+# Teste Webscrapping 
+
+candidato : Bernardo Andrade
+
+### O desafio é:
+
+Acessar esse site e pegar todos notebooks Lenovo ordenando do mais barato para o mais caro. Pegar TODOS os dados disponíveis dos produtos.
+
+Não utilizar nada de navegador como selenium ou puppeteer. Usar somente libs que interceptam dados de requisições e respostas (request /response) como Axios, Fetch etc.
+
+
+É interessante que o robô possa ser consumido por outros serviços. Recomendamos a criação de uma pequena REST Ful API JSON para deixar mais otimizado.
+
+Criar um repositório no github e me enviar o link.
+
+https://webscraper.io/test-sites/e-commerce/static/computers/laptops
