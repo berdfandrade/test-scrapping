@@ -15,8 +15,6 @@ Criar um repositório no github e me enviar o link.
 
 https://webscraper.io/test-sites/e-commerce/static/computers/laptops
 
-Aqui está um README simples para sua aplicação de scraping com Express e Axios:
-
 ---
 ## Test Webscraping API 
 
